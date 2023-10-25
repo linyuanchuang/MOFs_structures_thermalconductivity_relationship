@@ -3,23 +3,23 @@ The datas of "Understanding the influence of secondary building units on the the
 
 
 The description of each column in data.xlsx is as follows:
-No.                    :serial number，
-REFCODE                :reference code，
-ASA                    :accessible surface area，
-LCD                    :largest cavity diameter，
-VF                     :helium void fraction，
-Density                :density ，
-Va                     :available pore volume，
-crystal                :crystal structure，
-Metal type             :the type of metal carried by the MOF，
-PLD                    :pore limiting diameter，
-Pm_x                   :the pathway factors with SBUs influence in x direction，
-Pm_y                   :the pathway factors with SBUs influence in y direction，
-Pm_z                   :the pathway factors with SBUs influence in z direction，
-k_x                    :the thermal conductivity in x direction，
-k_y                    :the thermal conductivity in y direction，
-k_z                    :the thermal conductivity in z direction，
-Pf                     :pathway factor，
-Pm                     :the pathway factors with SBUs influence，
-topology               :topology type，
-thermal_conductivity   :thermal conductivity.
+No.                    :serial number<br>
+REFCODE                :reference code<br>
+ASA                    :accessible surface area<br>
+LCD                    :largest cavity diameter<br>
+VF                     :helium void fraction<br>
+Density                :density<br>
+Va                     :available pore volume<br>
+crystal                :crystal structure<br>
+Metal type             :the type of metal carried by the MOF<br>
+PLD                    :pore limiting diameter<br>
+Pm_x                   :the pathway factors with SBUs influence in x direction<br>
+Pm_y                   :the pathway factors with SBUs influence in y direction<br>
+Pm_z                   :the pathway factors with SBUs influence in z direction<br>
+k_x                    :the thermal conductivity in x direction<br>
+k_y                    :the thermal conductivity in y direction<br>
+k_z                    :the thermal conductivity in z direction<br>
+Pf                     :pathway factor<br>
+Pm                     :the pathway factors with SBUs influence<br>
+topology               :topology type<br>
+thermal_conductivity   :thermal conductivity.<br>
